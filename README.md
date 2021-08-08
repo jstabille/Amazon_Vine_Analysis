@@ -16,15 +16,15 @@ Here are my answers to these questions.
 
 1. There are 94 vine reviews and 40,471 non-vine reviews for a total of 40,565 reviews.
 
-![total_reviews](visualizations/total_reviews.png)
+![total_reviews](/visualizations/total_reviews.png)
 
 2. There were 48 5-star vine reviews and 15663 5-star non-vine reviews for a total of 15,711 5-star reviews.
 
-![5_star_reviews](visualizations/5_star_reviews.png)
+![5_star_reviews](/visualizations/5_star_reviews.png)
 
 3. 51.06% of paid reviews are 5-stars and 38.7% of unpaid reviews are 5-stars.
 
-![percentage_5_stars](visualizations/percentage_5_stars.png)
+![percentage_5_stars](/visualizations/percentage_5_stars.png)
 
 ## Summary
 
